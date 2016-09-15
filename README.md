@@ -1,5 +1,5 @@
 # android-calccore
-Calculator Core used for Travel Calculator App on Android
+Calculator Core used for [Travel Calculator](https://play.google.com/store/apps/details?id=com.tomosware.currency.RealCurrencyCalc "Travel Calculator") App on Android
 
 ## Objective
 
